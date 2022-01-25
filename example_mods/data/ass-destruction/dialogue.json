@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok that was actually kinda mid can you let me leave now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jeremy",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "nO NOt YEt! tHe VOices tEll ME that If YOU LeaVe I HAve TO KiLL A TOdler"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "are you........."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "a 4-chan user?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "theexperiment",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No I'm Joe."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "uhhhhhhhhhhhhhhhhhhhhhh.... whos joe?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "theexperiment",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm in your walls or somethin idk"
+		}
+	]
+}

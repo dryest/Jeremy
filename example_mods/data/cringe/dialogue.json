@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "jeremy",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HEnLo1! I aM jEREmy of THe Republican Party"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok thats cool but why the fuck are we in a sewer?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Jeremy",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "i ALchemY NEcromAnced YOu HerE BEcause I aM BOred."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so what you wanna have consensual sexual relations me or something?  "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jeremy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NO iWanT To SInG WITh you <3"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok bro."
+		}
+	]
+}

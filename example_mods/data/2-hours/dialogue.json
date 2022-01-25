@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "ok jackass let me go now. "
+		},
+		{
+			"speed": 0.085,
+			"portrait": "theexperiment",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I have one more suprise :)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok what?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jermy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ANOTHER REALLY ANNOYING FORM!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "god damn why he swole in one arm tho?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jermy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'M GONNA BEAT YOU TO DEATH"
+		}
+	]
+}

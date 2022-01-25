@@ -1,0 +1,49 @@
+{
+	"storyName": "jeremy",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "jeremy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"jeremy",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"cringe",
+			"jeremy",
+			[
+				106,
+				213,
+				195
+			]
+		],
+		[
+			"ass-destruction",
+			"pestilence",
+			[
+				0,
+				135,
+				93
+			]
+		],
+		[
+			"2-hours",
+			"final",
+			[
+				0,
+				20,
+				113
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

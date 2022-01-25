@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Stocked-up",
+			"stock",
+			[
+				46,
+				213,
+				115
+			]
+		],
+		[
+			"Thorns",
+			"final",
+			[
+				220,
+				0,
+				0
+			]
+		],
+		[
+			"Guns",
+			"Stock",
+			[
+				255,
+				120,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

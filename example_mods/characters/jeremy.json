@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				127,
+				-81
+			],
+			"anim": "singLEFT",
+			"fps": 40,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-15
+			],
+			"anim": "singUP",
+			"fps": 46,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				-183
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				-80
+			],
+			"anim": "idle",
+			"fps": 40,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				59,
+				-114
+			],
+			"indices": [],
+			"fps": 40,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jeremy",
+	"position": [
+		-130,
+		270
+	],
+	"healthicon": "jeremy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		152
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
